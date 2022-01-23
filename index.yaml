@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  node-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-23T00:29:46.184045Z"
+    description: A Helm chart for Kubernetes
+    digest: ac928d2832c474a7e1379581ab93cdabf7ff3fa5a04c319928ea06801a924076
+    name: node-web-app
+    type: application
+    urls:
+    - node-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-23T00:29:46.1804063Z"
